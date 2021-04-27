@@ -1,17 +1,20 @@
 # Formulario de contactos en node
 
-En su resumen curricular incorpore un formulario de contacto con la siguiente información:
+Agregue el resumen curricular de cada miembro del equipo como una vista EJS de node.
+Estas vistas, incorpore un formulario de contacto con la siguiente información:
 - nombre
 - email
 - comentario
+- propietario (campo hidden)
 
-Realice en node con POO, un sistema para poder guardar la informacion del formulario de contactos.
+Realice en node utilizando la Programación Orientada a Objetos (POO), un sistema para poder guardar la información del formulario de contactos.
 
 ### Objetivos:
-- Convertir el resumen curricular realizado en la evaluacion anterior en una vista EJS de node
+- Convertir el resumen curricular realizado en la evaluación anterior en una vista EJS de node
 - Agregar al final de esa vista el formulario de contactos
-- Guardar la informacion enviada a traves del formulario de contacto en un archivo JSON
-- Mostrar en una vista diferente el listado completo de la informacion de contactos
+- Guardar la información enviada a través del formulario de contacto en un archivo JSON
+- Mostrar en una vista diferente el listado completo de la información de contactos
 
 ### Extras:
-- Mejorar la presentacion del resumen curricular con respecto a la primera evaluación
+- Mejorar la presentación del resumen curricular con respecto a la primera evaluación
+
